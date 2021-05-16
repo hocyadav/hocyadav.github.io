@@ -3,8 +3,7 @@ layout: post
 title: Sample blog post
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [test, test1]
 comments: true
 ---
 
@@ -65,7 +64,9 @@ You can add notification, warning and error boxes like this:
 ### Notification
 
 {: .box-note}
-**Note:** This is a notification box.
+**Note:** This is a notification box. 
+This is a notification box.
+
 
 ### Warning
 
